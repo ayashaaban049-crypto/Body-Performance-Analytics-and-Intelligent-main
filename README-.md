@@ -1,4 +1,4 @@
-# 🧠 AXORA — Body Performance Analytics & Intelligent Classification System
+# 🧠Body Performance Analytics & Intelligent Classification System
 
 > An end-to-end machine learning project that analyzes human body performance data, applies multiple AI models for classification and regression, and delivers insights through an interactive Streamlit web application.
 
